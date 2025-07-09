@@ -54,3 +54,32 @@ The dashboard integrates multi-source data, standardizes currencies, and provide
 
 ### 🗺️ Map View
 <img src="Map.png" alt="Map" width="600"/>
+
+### 📦 Product Analysis
+<img src="Product%20Analysis.png" alt="Product Analysis" width="600"/>
+
+## 📈 Key Insights
+
+- Identified top-performing regions and product categories.
+- Visualized return rates across global markets.
+- Enabled stakeholders to explore data with drill-down and filter options.
+
+---
+
+## 🧠 Tools & Tech Used
+
+- **Power BI**
+- **Power Query**
+- **DAX**
+- **Data Modeling**
+- **Data Visualization**
+
+---
+
+## ✅ Outcome
+
+✔️ Enhanced visibility into sales and return trends  
+✔️ Faster decision-making with real-time insights  
+✔️ Streamlined executive reporting for XGRIP
+
+---
