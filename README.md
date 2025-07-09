@@ -29,3 +29,25 @@ The dashboard integrates multi-source data, standardizes currencies, and provide
 - Secured sensitive data based on user roles(Row-Level Security).
 
 ---
+
+## 🚀 Execution Steps
+
+1. **Data Preparation**
+   - Imported and cleaned data in Power BI using Power Query.
+   - Standardized formats and handled missing values.
+
+2. **Dashboard Development**
+   - Created visuals: bar charts, maps, cards, pie charts.
+   - Added dynamic slicers for regions, categories, and dates.
+   - Used DAX to create custom KPIs.
+
+3. **Publishing**
+   - Published to Power BI Service for stakeholder access.
+   - Enabled scheduled data refresh and access control.
+
+---
+
+## 🌍 Screenshots
+
+### 🌑 Sales Overview Dashboard
+<img src="Sales%20Overview%20Dashboard.png" alt="Sales and profits Overview" width="600"/>
