@@ -52,5 +52,5 @@ The dashboard integrates multi-source data, standardizes currencies, and provide
 ### 🌑 Sales Overview Dashboard
 <img src="Sales%20Overview%20Dashboard.png" alt="Sales and profits Overview" width="600"/>
 
-### 🗺️ Dark Map View
+### 🗺️ Map View
 <img src="Map.png" alt="Map" width="600"/>
