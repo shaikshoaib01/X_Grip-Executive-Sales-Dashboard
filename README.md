@@ -83,3 +83,6 @@ The dashboard integrates multi-source data, standardizes currencies, and provide
 ✔️ Streamlined executive reporting for XGRIP
 
 ---
+
+## Copyright
+- Project dataset created by ZeroAnalyst; it is a simulated company for learning purposes.
